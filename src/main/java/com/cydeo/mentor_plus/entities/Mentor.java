@@ -18,6 +18,6 @@ public class Mentor {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String mentorName;
+    private String name;
     private int likeCount;
 }
