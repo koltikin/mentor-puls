@@ -1,6 +1,4 @@
 package com.cydeo.mentor_plus.controller;
-
-import com.cydeo.mentor_plus.entities.Mentor;
 import com.cydeo.mentor_plus.entities.ResponseWrapper;
 import com.cydeo.mentor_plus.services.MentorService;
 import org.springframework.http.HttpStatus;
